@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+}
+
+img{
+    width: 544px;
+}
+
+article{
+    float: right;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: cyan;
+}
